@@ -27,6 +27,7 @@ The repository currently includes exercises such as:
 * **Matrix transposition** – demonstrates how to transpose a matrix using list comprehensions.
 * **Lottery simulation** – generates random numbers and compares them with the user's numbers.
 * **Budget CLI** – a command-line budget management application that allows users to add expenses, generate reports, import expenses from CSV files, and store data between program runs. The project uses dataclasses, Click, pickle, CSV processing, exception handling, input validation, list comprehensions, sets, and file operations.
+* **Time Tracker Analytics** – a command-line analytics tool that reads time-tracking data from a CSV file and generates a summary of time spent by tags (such as projects, clients, or task categories). The project demonstrates CSV processing, custom classes, dictionaries for data aggregation, type hints, list comprehensions, and modular code organization.
 
 ## Goal
 
