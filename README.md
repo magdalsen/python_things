@@ -30,5 +30,3 @@ The repository currently includes exercises such as:
 ## Goal
 
 I am continuously expanding this repository as I learn new Python concepts and apply them in practice.
-
-This repository is part of my preparation for the **EPAM Python Campus**.
